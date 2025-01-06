@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Request Account Deletion</title>
+</head>
+<body style="font-family: Arial, sans-serif; line-height: 1.6; margin: 20px;">
+    <h1>Request Account and Data Deletion</h1>
+    <p>If you want to delete your account and associated data, please email us at:</p>
+    <a href="mailto:michellegam2019@gmail.com?subject=Account Deletion Request&body=Please delete my account and associated data."
+       style="color: #007BFF; text-decoration: none; font-weight: bold;">
+       michellegam2019@gmail.com
+    </a>
+    <p>We will process your request promptly and notify you once it is complete.</p>
+</body>
+</html>
